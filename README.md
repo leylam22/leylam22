@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Kalvi](https://github.com/leylam22/Klavi.git)
+
 
 - 📫 How to reach me **leylarm@code.edu.az**
 
